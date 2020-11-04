@@ -1,4 +1,4 @@
-![Image](https://github.com/Gkan0007/AntGuide/blob/master/logo.png)
+![Image](https://github.com/GaneshSarmaK/AntGuide/blob/main/logo.png)
 # AntGuide
 
 ![platform](https://img.shields.io/badge/platform-ios-blue.svg) ![ios](https://img.shields.io/badge/ios-13.0%2B-blue.svg) ![swift](https://img.shields.io/badge/swift-5-orange.svg)
