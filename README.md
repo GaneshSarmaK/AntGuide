@@ -36,7 +36,6 @@ A number of cocoapods were used to to achieve effiencient functionality:
 * [MKColorPicker](https://github.com/malkouz/MKColorPicker) - A fantastic color picker  
 * [OHMySQL](https://github.com/oleghnidets/OHMySQL) - An easy way to SQL database
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - A powerful image caching tool 
-* [SoftUIView](https://github.com/hmhv/SoftUIView) - Simple and elegeant views
 * [SwiftGifOrigin](https://github.com/swiftgif/SwiftGif) - An easy way to load gifs
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - Animations for collections and tables
 * [SnapLikeCollectionView](https://github.com/kboy-silvergym/SnapLikeCollectionView) - Unique colletion view layouts
