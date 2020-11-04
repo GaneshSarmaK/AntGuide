@@ -1,0 +1,6 @@
+module OHMySQL {
+  umbrella header "OHMySQL-umbrella.h"
+
+  export *
+  module * { export * }
+}

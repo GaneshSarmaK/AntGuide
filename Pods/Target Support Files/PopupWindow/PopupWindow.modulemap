@@ -1,0 +1,6 @@
+module PopupWindow {
+  umbrella header "PopupWindow-umbrella.h"
+
+  export *
+  module * { export * }
+}

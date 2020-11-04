@@ -1,0 +1,6 @@
+module SnapLikeCollectionView {
+  umbrella header "SnapLikeCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}

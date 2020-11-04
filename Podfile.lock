@@ -1,0 +1,70 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireRSSParser (2.2.0):
+    - Alamofire
+  - AnimatedCollectionViewLayout (1.0.1)
+  - BottomPopup (0.6.0)
+  - CollectionViewPagingLayout (0.1.4)
+  - MKColorPicker (1.2)
+  - OHMySQL (2.1.3)
+  - PopupWindow (0.1.0)
+  - SnapLikeCollectionView (1.1.0)
+  - SoftUIView (0.0.2)
+  - SwiftGifOrigin (1.7.0)
+  - SwiftyJSON (4.3.0)
+  - ViewAnimator (2.7.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage (~> 3.0)
+  - AlamofireRSSParser
+  - AnimatedCollectionViewLayout
+  - BottomPopup
+  - CollectionViewPagingLayout
+  - MKColorPicker
+  - OHMySQL
+  - PopupWindow
+  - SnapLikeCollectionView
+  - SoftUIView
+  - SwiftGifOrigin (~> 1.7.0)
+  - SwiftyJSON (~> 4.0)
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireRSSParser
+    - AnimatedCollectionViewLayout
+    - BottomPopup
+    - CollectionViewPagingLayout
+    - MKColorPicker
+    - OHMySQL
+    - PopupWindow
+    - SnapLikeCollectionView
+    - SoftUIView
+    - SwiftGifOrigin
+    - SwiftyJSON
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireRSSParser: 4feb3c8cedf1fba2759ba30cf37cdf6ba45efd38
+  AnimatedCollectionViewLayout: 00f0997fd26f0fd02d8b99765023b95570b5d826
+  BottomPopup: 1d5649a3b29396238f0e8f3c82075a7bfcf37ba7
+  CollectionViewPagingLayout: ad473d532d5cea6c9f979d006750c34caf92861c
+  MKColorPicker: 8998b2ab977e4f240fdf254db27a18b810da3cfc
+  OHMySQL: 8bc54d2b8b9e1acfa0e652b18856a9cdbb24c431
+  PopupWindow: 2f3a33001295435a3ab568e42a970d51539ed6e9
+  SnapLikeCollectionView: b6f46ad57d104f94d91ce78b721afa43fd2b444b
+  SoftUIView: e04596489fc59b5c50ba4b2f970d82a277430263
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  ViewAnimator: 5af1c6f3b310f012bf081259c43717aa54fbae73
+
+PODFILE CHECKSUM: 6bde314d89d6c3e317035422bf7fe6e70f934dbd
+
+COCOAPODS: 1.9.1
